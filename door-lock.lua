@@ -10,9 +10,9 @@ while true do
      -- Validate password 
     if input == "4123" then
         -- Open door if password is correct
-        redstone.setOutput("right", true) 
+        redstone.setOutput("bottom", true) 
         -- Close door after 5 seconds
         sleep(5)
-        redstone.setOutput("right", false)
+        redstone.setOutput("bottom", false)
     end
 end
