@@ -6,7 +6,8 @@ If you want to use these scripts, you can also find them on my [pastebin](https:
 
 ## Scripts
 
-- `potato-harvester` Used on any turtles that have tools, automatically harvests and drops mature potatoes.
-- `auto-attacker` Mainly for melee turtles, can be used for AFK XP Farming.
+- `potato-harvester` Used on any turtles that have tools, automatically harvests and drops mature potatoes
+- `auto-attacker` Mainly for melee turtles, can be used for AFK XP Farming
 - `message-sender` For wireless blocks, used to send messages to any listeners in the channel
 - `message-listener` For wireless blocks, used to listen for any publishes messages in the channels that it has opened
+- `door-lock` Can be used to open iron doors via a password as opposted to a redstone button/lever
